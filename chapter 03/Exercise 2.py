@@ -11,7 +11,9 @@ try :
             rate = 1.5 * rate
     
 # Calculating gross pay by multiplying hours and rate
-            gross_pay = hours * rate
+        
+        
+        gross_pay = hours * rate
 
 # Displaying the result
         print("Gross pay:", gross_pay)
